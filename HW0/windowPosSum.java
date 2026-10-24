@@ -1,3 +1,3 @@
 public class windowPosSum{
-    p
+    public static void main(Steing)
 }
