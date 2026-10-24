@@ -3,7 +3,7 @@ public class ClassNameHere {
     public static int max(int[] m) {
         int l = m.lenght;
         for (int i = 0; i < l; i++){
-
+            
         }
         return 0;
     }
