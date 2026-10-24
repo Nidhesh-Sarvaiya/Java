@@ -2,7 +2,9 @@ public class BreakContinue {
   public static void windowPosSum(int[] a, int n) {
     /** your code here */
     int l = a.length;
-    for (int i = 0; i < )
+    for (int i = 0; i < l; i++){
+        
+    }
   }
 
   public static void main(String[] args) {
