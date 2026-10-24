@@ -1,1 +1,8 @@
-{"gitdoc.enabled": true, "gitdoc.commitValidationLevel": "none"}
+{
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 1000,
+  "gitdoc.enabled": true,
+  "gitdoc.autoCommitDelay": 3000,
+  "gitdoc.autoPush": "onCommit",
+  "gitdoc.commitValidationLevel": "none"
+}
