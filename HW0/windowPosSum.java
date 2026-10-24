@@ -3,9 +3,10 @@ public class BreakContinue {
     /** your code here */
     int l = a.length;
     for (int i = 0; i < l; i++){
-        if (a[i]  0)
+        if (a[i]  0){
             for (int j = 0; j < n; j++){
             }
+        
     }
   }
 
