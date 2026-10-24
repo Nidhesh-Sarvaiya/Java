@@ -1,7 +1,7 @@
 public class ClassNameHere {
     /** Returns the maximum value from m. */
     public static int max(int[] m) {
-        for (int i = 0; i < ){
+        for (int i = 0; i < n){
 
         }
         return 0;
