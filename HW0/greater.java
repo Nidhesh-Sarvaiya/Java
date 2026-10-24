@@ -2,6 +2,7 @@ public class ClassNameHere {
     /** Returns the maximum value from m. */
     public static int max(int[] m) {
         int l = m.lenght;
+        int n = 
         for (int i = 0; i < l; i++){
         }
         return 0;
