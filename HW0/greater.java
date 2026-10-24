@@ -4,7 +4,9 @@ public class ClassNameHere {
         int l = m.lenght;
         int n = 0;
         for (int i = 0; i < l; i++){
-            if (m[i] > )
+            if (m[i] > n){
+                
+            }
         }
         return n;
     }
