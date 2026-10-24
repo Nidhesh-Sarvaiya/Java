@@ -1,7 +1,7 @@
 public class BreakContinue {
   public static void windowPosSum(int[] a, int n) {
     /** your code here */
-    
+    for (int i = 0; 0)
   }
 
   public static void main(String[] args) {
