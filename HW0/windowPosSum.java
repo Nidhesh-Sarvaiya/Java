@@ -1,3 +1,3 @@
 public class windowPosSum{
-    public static void main(Steing)
+    public static void main(String[] agrs)
 }
