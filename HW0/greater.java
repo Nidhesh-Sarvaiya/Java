@@ -5,7 +5,7 @@ public class ClassNameHere {
         int n = 0;
         for (int i = 0; i < l; i++){
             if (m[i] > n){
-                
+                n = m[i]
             }
         }
         return n;
