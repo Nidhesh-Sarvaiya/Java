@@ -1,8 +1,8 @@
 public class ClassNameHere {
     /** Returns the maximum value from m. */
     public static int max(int[] m) {
-        int lenght = m.lenght;
-        for (int i = 0; i < ){
+        int l = m.lenght;
+        for (int i = 0; i < l){
 
         }
         return 0;
