@@ -1,6 +1,7 @@
 public class ClassNameHere {
     /** Returns the maximum value from m. */
     public static int max(int[] m) {
+        for
         return 0;
     }
     public static void main(String[] args) {
