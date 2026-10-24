@@ -4,8 +4,8 @@ public class BreakContinue {
     int l = a.length;
     for (int i = 0; i < l; i++){
         if (a[i]  0)
-        for (int j = 0; j < n; j++){
-        }
+            for (int j = 0; j < n; j++){
+            }
     }
   }
 
