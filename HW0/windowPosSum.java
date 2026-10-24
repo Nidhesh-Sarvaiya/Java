@@ -1,14 +1,14 @@
-public class EnhancedForBreakDemo {
-    public static void main(String[] args) {
-        String[] a = {"cat", "dog", "laser horse", "ketchup", "horse", "horbse"};
+public class BreakContinue {
+  public static void windowPosSum(int[] a, int n) {
+    /** your code here */ 
+  }
 
-        for (String s : a) {
-            for (int j = 0; j < 3; j += 1) {
-                System.out.println(s);
-                if (s.contains("horse")) {
-                    break;
-                }                
-            }
-        }
-    }
+  public static void main(String[] args) {
+    int[] a = {1, 2, -3, 4, 5, 4};
+    int n = 3;
+    windowPosSum(a, n);
+
+    // Should print 4, 8, -3, 13, 9, 4
+    System.out.println(java.util.Arrays.toString(a));
+  }
 }
