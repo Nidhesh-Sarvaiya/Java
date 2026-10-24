@@ -6,7 +6,7 @@ public class BreakContinue {
         if (a[i]  0){
             for (int j = 0; j < n; j++){
             }
-        
+        }
     }
   }
 
