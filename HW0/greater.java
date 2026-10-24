@@ -5,6 +5,6 @@ public class ClassNameHere {
     }
     public static void main(String[] args) {
        int[] numbers = new int[]{9, 2, 15, 2, 22, 10, 6};
-       max()
+       max(numbers);
     }
 }
